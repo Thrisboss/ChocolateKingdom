@@ -1,0 +1,6 @@
+main: me.alexandreh.fr.Main
+name: ChocolateKingdom
+version: 1.0.0
+author: Thris
+commands:
+    ck:
